@@ -1,0 +1,501 @@
+﻿Customer_Name,Location,Distance_covered,Order_Time
+Mary Vega DDS,Midtown,1.80,2025-02-02 14:28:00
+Brandon Myers,Old Fourth Ward,0.50,2025-06-08 10:57:00
+Margaret Wells,Inman Park,1.50,2025-03-04 7:41:00
+Michael Matthews,Virginia Highland,2.20,2025-05-15 12:43:00
+Connor Williams,Grant Park,3.10,2025-03-15 14:25:00
+Matthew Miles,Buckhead,5.40,2025-04-12 5:49:00
+Catherine Thompson,Decatur,6.10,2025-06-20 18:19:00
+Nathan Holland,East Atlanta Village,4.80,2025-05-30 9:24:00
+Anthony Sherman,Westside/West Midtown,4.90,2025-06-03 1:41:00
+Carolyn Roberts,Little Five Points,2.90,2025-07-18 0:59:00
+Johnny Dennis,Perimeter/Dunwoody,12.30,2025-04-28 8:09:00
+Michael Barton,Airport Hartsfield,11.80,2025-02-05 0:34:00
+Heidi Boyle,Marietta,16.20,2025-04-28 8:32:00
+George Smith,BrookHeaven,8.70,2025-05-05 8:56:00
+Thomas Frazier,Sandy Springs,13.50,2025-04-22 2:38:00
+David Bailey,Grant Park,3.10,2025-05-21 14:35:00
+Larry Harvey,Decatur,6.10,2025-03-14 15:47:00
+Christina Cochran,East Atlanta Village,4.80,2025-07-26 8:22:00
+Aaron Bruce,Inman Park,1.50,2025-04-22 19:43:00
+Anna Smith,Marietta,16.20,2025-05-28 17:07:00
+Andrew Hill,Midtown,1.80,2025-07-30 3:53:00
+Angela Sherman,Airport Hartsfield,11.80,2025-02-20 9:20:00
+Austin Cain,Perimeter/Dunwoody,12.30,2025-05-20 16:56:00
+Scott Clark,Little Five Points,2.90,2025-05-28 22:37:00
+Cindy Smith,East Atlanta Village,4.80,2025-08-04 13:08:00
+Elizabeth Contreras,Old Fourth Ward,0.50,2025-07-11 7:28:00
+Robert Simmons,Inman Park,1.50,2025-08-06 13:59:00
+Ana Brooks,Grant Park,3.10,2025-01-28 8:49:00
+Jason King,BrookHeaven,8.70,2025-03-02 10:16:00
+Andrew Stephens,Buckhead,5.40,2025-03-14 12:34:00
+Carol Lynch,Virginia Highland,2.20,2025-04-12 10:21:00
+Amy Ellis,Virginia Highland,2.20,2025-08-12 9:36:00
+Kathleen Miranda,Buckhead,5.40,2025-02-18 20:11:00
+Lynn Smith,Old Fourth Ward,0.50,2025-01-25 12:55:00
+Michelle Rodriguez,Sandy Springs,13.50,2025-01-21 23:18:00
+Emily Mcmillan,Buckhead,5.40,2025-06-21 22:04:00
+Gavin Griffin,Marietta,16.20,2025-03-11 15:50:00
+Jennifer Friedman,Airport Hartsfield,11.80,2025-03-26 8:57:00
+Brittany Hughes,Westside/West Midtown,4.90,2025-07-30 19:02:00
+Margaret Lopez,Perimeter/Dunwoody,12.30,2025-06-26 13:08:00
+Lori James,Decatur,6.10,2025-06-17 13:26:00
+Heather Wheeler,Virginia Highland,2.20,2025-06-05 3:05:00
+Susan Glenn,Grant Park,3.10,2025-06-20 22:28:00
+Richard Lee,East Atlanta Village,4.80,2025-08-05 22:33:00
+Jennifer Barron,Little Five Points,2.90,2025-05-15 13:59:00
+Lauren Freeman,Perimeter/Dunwoody,12.30,2025-06-26 13:27:00
+Matthew Perry,Midtown,1.80,2025-05-01 1:41:00
+William Rasmussen,Inman Park,1.50,2025-03-24 13:55:00
+Anthony Jennings,Airport Hartsfield,11.80,2025-08-07 14:43:00
+James Nixon,Old Fourth Ward,0.50,2025-08-14 7:20:00
+Shannon Young,BrookHeaven,8.70,2025-05-09 5:40:00
+Logan Maddox,Sandy Springs,13.50,2025-01-27 14:30:00
+Christina Donovan,Westside/West Midtown,4.90,2025-02-20 7:16:00
+Jessica Burke,Decatur,6.10,2025-07-13 12:42:00
+Brandy Lewis,Marietta,16.20,2025-05-30 18:14:00
+Sheri White,Inman Park,1.50,2025-08-01 17:25:00
+Amanda Mcfarland,Inman Park,1.50,2025-04-24 12:27:00
+James Jones,Virginia Highland,2.20,2025-06-09 9:53:00
+Tamara Winters,Grant Park,3.10,2025-07-27 5:02:00
+Jason Phillips,Decatur,6.10,2025-02-10 13:04:00
+Wyatt Jackson,Inman Park,1.50,2025-07-01 6:54:00
+Nichole Lopez,Decatur,6.10,2025-03-25 8:30:00
+Eric Garcia,Old Fourth Ward,0.50,2025-02-01 4:21:00
+Morgan Simmons,Midtown,1.80,2025-04-13 21:22:00
+Jerry Singh,Perimeter/Dunwoody,12.30,2025-06-10 4:12:00
+Kurt Washington,East Atlanta Village,4.80,2025-01-18 2:30:00
+Mary Johnson,Airport Hartsfield,11.80,2025-05-20 12:34:00
+Cassandra Alexander,Grant Park,3.10,2025-05-04 7:28:00
+Brittany Craig,Old Fourth Ward,0.50,2025-05-13 20:32:00
+Patrick Hanna,East Atlanta Village,4.80,2025-02-12 5:00:00
+Wendy Nichols,BrookHeaven,8.70,2025-08-14 5:17:00
+Dakota Hughes,Buckhead,5.40,2025-04-13 5:56:00
+Justin Powell,Sandy Springs,13.50,2025-05-07 18:24:00
+Jillian Jackson,Decatur,6.10,2025-08-01 16:44:00
+Shawn Cherry,Westside/West Midtown,4.90,2025-01-22 11:31:00
+Dillon Church,Westside/West Midtown,4.90,2025-04-22 9:03:00
+Shannon Morales PhD,Old Fourth Ward,0.50,2025-02-04 19:58:00
+Christopher Bailey,Grant Park,3.10,2025-07-27 14:30:00
+Connie Roberts,Little Five Points,2.90,2025-02-25 11:41:00
+Aimee White,Airport Hartsfield,11.80,2025-07-12 8:38:00
+Daniel Fisher,Airport Hartsfield,11.80,2025-02-10 2:47:00
+Kristin Bennett,Airport Hartsfield,11.80,2025-06-04 7:16:00
+Catherine Jenkins,Airport Hartsfield,11.80,2025-05-29 5:00:00
+Michael Miller,Airport Hartsfield,11.80,2025-04-12 14:32:00
+Denise Murphy,Airport Hartsfield,11.80,2025-02-26 20:30:00
+Larry Santiago,Airport Hartsfield,11.80,2025-05-08 12:15:00
+James Barber,Airport Hartsfield,11.80,2025-05-05 20:34:00
+Gregory Brown,Buckhead,5.40,2025-03-12 8:06:00
+Barbara Ray,Buckhead,5.40,2025-03-25 5:17:00
+Jordan Guzman,Buckhead,5.40,2025-07-27 6:08:00
+Bruce Chambers,Buckhead,5.40,2025-05-03 14:33:00
+Dustin Holt,Buckhead,5.40,2025-05-22 4:02:00
+Regina Gill,Buckhead,5.40,2025-05-07 8:42:00
+Patricia Nunez,Buckhead,5.40,2025-02-02 2:30:00
+Elizabeth Farley,Buckhead,5.40,2025-02-17 9:39:00
+Antonio Pena,Buckhead,5.40,2025-06-20 22:05:00
+Lisa Mora,Buckhead,5.40,2025-05-23 4:28:00
+Janet Salazar,Buckhead,5.40,2025-06-21 19:24:00
+Brandy Terrell,Buckhead,5.40,2025-04-09 19:56:00
+Jason Newman,Marietta,16.20,2025-04-23 19:18:00
+Mrs. Sheila Dean,Marietta,16.20,2025-06-11 3:33:00
+Ricardo Neal,Marietta,16.20,2025-06-05 12:22:00
+Kevin Gonzalez,Marietta,16.20,2025-04-05 12:33:00
+Raymond Cooper,Marietta,16.20,2025-02-06 0:27:00
+Christopher Kramer,Marietta,16.20,2025-03-23 16:44:00
+Antonio Nielsen,Marietta,16.20,2025-03-10 7:08:00
+Alison Smith,Marietta,16.20,2025-04-20 11:28:00
+Jamie Winters,Marietta,16.20,2025-05-28 15:15:00
+Nicole Parrish,Marietta,16.20,2025-07-05 3:18:00
+Diane Perez,Marietta,16.20,2025-05-08 13:37:00
+Melinda Myers,Marietta,16.20,2025-02-20 18:15:00
+Richard Brown,Marietta,16.20,2025-05-15 19:57:00
+Erica Medina,Marietta,16.20,2025-06-20 23:52:00
+Brenda Contreras,Marietta,16.20,2025-04-04 16:28:00
+Joe Barton,Marietta,16.20,2025-02-28 14:37:00
+William Crane,Marietta,16.20,2025-05-20 11:46:00
+Aaron Clark,Marietta,16.20,2025-03-10 7:36:00
+Brandi Houston,Marietta,16.20,2025-08-12 11:08:00
+Monica Richards,Marietta,16.20,2025-03-14 5:55:00
+Dale Salinas,Marietta,16.20,2025-01-05 6:31:00
+Randall Decker,Marietta,16.20,2025-03-29 5:22:00
+Zachary Fisher,Marietta,16.20,2025-08-01 8:53:00
+Curtis Townsend,Marietta,16.20,2025-02-02 1:44:00
+James Martinez,Marietta,16.20,2025-05-19 15:47:00
+Mark Thomas,Marietta,16.20,2025-07-08 4:59:00
+Bobby Horton,Marietta,16.20,2025-04-04 11:08:00
+Matthew Hays,Marietta,16.20,2025-08-01 20:43:00
+Amy Mclean,Marietta,16.20,2025-06-27 1:59:00
+Kristy James,Marietta,16.20,2025-06-27 3:50:00
+Jonathan Turner,Marietta,16.20,2025-02-05 21:59:00
+Mrs. Melissa Schmidt,Marietta,16.20,2025-01-07 7:38:00
+Lisa Andrade,Marietta,16.20,2025-07-21 0:43:00
+Phillip Lucas,Marietta,16.20,2025-07-19 1:52:00
+Nancy Shields,Marietta,16.20,2025-04-20 11:23:00
+Patricia Smith,Marietta,16.20,2025-04-27 20:03:00
+William Williams,Marietta,16.20,2025-03-06 19:30:00
+Stephanie Ortega,Marietta,16.20,2025-05-04 11:36:00
+Amanda Cervantes,Marietta,16.20,2025-06-26 21:34:00
+Sara Garcia,Marietta,16.20,2025-01-16 5:53:00
+Andrea Reynolds,Marietta,16.20,2025-07-29 7:04:00
+Tracey Perez,Marietta,16.20,2025-05-21 21:54:00
+Lisa Jones,Marietta,16.20,2025-05-27 19:19:00
+Justin Howard,Marietta,16.20,2025-05-22 17:00:00
+Benjamin Stark,East Atlanta Village,4.80,2025-05-28 5:50:00
+Joshua Walls,East Atlanta Village,4.80,2025-04-04 6:25:00
+Jerome Bright,East Atlanta Village,4.80,2025-07-16 23:04:00
+Victoria Sims,East Atlanta Village,4.80,2025-02-14 4:48:00
+Diana Davis,East Atlanta Village,4.80,2025-06-02 10:35:00
+Andrew Suarez,East Atlanta Village,4.80,2025-02-11 2:48:00
+Melanie Keller,East Atlanta Village,4.80,2025-01-11 12:27:00
+Nicole Barrett,East Atlanta Village,4.80,2025-06-14 14:56:00
+Kimberly Gilbert,East Atlanta Village,4.80,2025-05-22 21:34:00
+Diane Olson,East Atlanta Village,4.80,2025-04-01 15:08:00
+Jessica Jacobs,East Atlanta Village,4.80,2025-04-07 7:43:00
+Deanna Glover,East Atlanta Village,4.80,2025-02-02 4:51:00
+Steven Larson,East Atlanta Village,4.80,2025-01-03 6:06:00
+Mark Winters,East Atlanta Village,4.80,2025-07-23 12:35:00
+Nathan Harris,East Atlanta Village,4.80,2025-01-26 4:04:00
+David Barrett,Little Five Points,2.90,2025-02-25 15:40:00
+Bobby Miles,Little Five Points,2.90,2025-01-22 8:47:00
+Thomas Hernandez,Little Five Points,2.90,2025-05-28 3:14:00
+Todd Brown,Little Five Points,2.90,2025-01-05 20:38:00
+Laura Wheeler,Little Five Points,2.90,2025-07-28 21:27:00
+Melissa Wolfe,Little Five Points,2.90,2025-07-03 9:32:00
+Victoria Ramirez,Little Five Points,2.90,2025-02-15 15:17:00
+Hailey Massey,Little Five Points,2.90,2025-01-12 6:36:00
+Catherine Lucero,Little Five Points,2.90,2025-02-11 20:50:00
+Daniel Lee,Little Five Points,2.90,2025-03-21 17:26:00
+Carl Olson,Little Five Points,2.90,2025-03-03 2:35:00
+Derek Carlson,Little Five Points,2.90,2025-04-18 11:28:00
+Kenneth Coleman,Little Five Points,2.90,2025-07-23 20:49:00
+Jessica Williams,Little Five Points,2.90,2025-06-18 20:47:00
+Don Davis,Little Five Points,2.90,2025-04-06 14:37:00
+Kelly Huang,Little Five Points,2.90,2025-02-15 17:55:00
+Robert Mahoney,Little Five Points,2.90,2025-03-29 2:52:00
+Melissa Diaz,Little Five Points,2.90,2025-07-22 17:23:00
+Jason Morgan,Little Five Points,2.90,2025-04-26 16:42:00
+Tiffany Gardner,Little Five Points,2.90,2025-06-15 15:06:00
+Christina Castro,Little Five Points,2.90,2025-02-08 12:12:00
+Sherry Rogers,Little Five Points,2.90,2025-07-05 23:29:00
+Jon Boyd,BrookHeaven,8.70,2025-05-30 22:52:00
+Jeffery Mason,BrookHeaven,8.70,2025-07-02 18:30:00
+Mary Curtis,BrookHeaven,8.70,2025-07-07 4:42:00
+Elizabeth Smith,BrookHeaven,8.70,2025-02-05 17:47:00
+Juan Lucero,BrookHeaven,8.70,2025-01-02 15:49:00
+Karen Hester,BrookHeaven,8.70,2025-01-10 21:51:00
+Michael Smith,BrookHeaven,8.70,2025-04-15 10:57:00
+David Hamilton,BrookHeaven,8.70,2025-02-05 23:19:00
+Matthew Cooper,BrookHeaven,8.70,2025-03-11 17:14:00
+Dr. Brian Byrd,BrookHeaven,8.70,2025-02-02 11:53:00
+Lisa Franklin,BrookHeaven,8.70,2025-04-29 12:51:00
+Laura Archer,BrookHeaven,8.70,2025-06-27 17:59:00
+James Black,Inman Park,1.50,2025-03-28 0:20:00
+Jennifer Reed,Inman Park,1.50,2025-06-03 5:28:00
+Joseph Butler,Inman Park,1.50,2025-02-12 6:26:00
+Charles Evans,Inman Park,1.50,2025-05-15 11:37:00
+Bradley Young,Inman Park,1.50,2025-04-16 14:09:00
+Brian Wood,Inman Park,1.50,2025-05-07 3:09:00
+Preston Flynn,Inman Park,1.50,2025-05-19 13:00:00
+Richard Garcia,Inman Park,1.50,2025-02-11 3:19:00
+Mark Davis,Inman Park,1.50,2025-07-28 2:34:00
+Sandra Good,Inman Park,1.50,2025-06-19 11:16:00
+George Mack,Inman Park,1.50,2025-06-28 7:30:00
+David Patel,Inman Park,1.50,2025-08-12 17:00:00
+Billy Tapia,Inman Park,1.50,2025-07-10 21:53:00
+Christopher Chapman,Inman Park,1.50,2025-03-20 14:46:00
+Amy Brown,Inman Park,1.50,2025-05-03 18:38:00
+James Bradley,Inman Park,1.50,2025-07-18 12:50:00
+Teresa Rollins,Inman Park,1.50,2025-01-05 8:03:00
+Fernando Burke,Inman Park,1.50,2025-04-10 7:42:00
+Elizabeth Blake MD,Inman Park,1.50,2025-04-30 9:21:00
+Diana House,Inman Park,1.50,2025-01-04 6:48:00
+Julie Johnson,Inman Park,1.50,2025-06-21 4:45:00
+Monique Gonzalez,Inman Park,1.50,2025-01-01 1:36:00
+Daniel Gomez,Inman Park,1.50,2025-05-31 23:14:00
+Kevin Meyer,Inman Park,1.50,2025-05-19 9:12:00
+Shawn Gonzalez,Inman Park,1.50,2025-03-07 13:59:00
+Tiffany Scott,Inman Park,1.50,2025-05-19 12:24:00
+Douglas Bryant,Inman Park,1.50,2025-03-01 23:54:00
+Michael Valentine,Inman Park,1.50,2025-05-13 7:01:00
+Elizabeth Stanley,Inman Park,1.50,2025-07-14 8:20:00
+Nicole Collins,Inman Park,1.50,2025-03-06 17:30:00
+Jeffrey Roberts,Inman Park,1.50,2025-04-29 10:32:00
+Christopher Rodriguez,Inman Park,1.50,2025-03-02 18:17:00
+Alexander Nielsen,Midtown,1.80,2025-05-18 12:15:00
+Luis Welch,Midtown,1.80,2025-04-06 18:44:00
+Steven Gardner,Midtown,1.80,2025-07-28 20:12:00
+Melissa Garcia,Midtown,1.80,2025-02-12 14:06:00
+Margaret Burch,Midtown,1.80,2025-07-30 16:06:00
+Patricia Johnson,Midtown,1.80,2025-04-03 19:30:00
+Dr. Rebekah Davenport,Midtown,1.80,2025-07-08 8:16:00
+Francisco Ramos,Midtown,1.80,2025-01-16 23:15:00
+Anthony Griffin,Midtown,1.80,2025-06-23 0:18:00
+Melissa Ballard,Midtown,1.80,2025-04-22 14:02:00
+Mr. Douglas James MD,Midtown,1.80,2025-01-18 12:47:00
+Mark Campbell,Midtown,1.80,2025-05-04 13:34:00
+Brian Brown,Midtown,1.80,2025-08-10 10:15:00
+Erica Sutton,Midtown,1.80,2025-03-23 0:51:00
+Alyssa Phillips,Midtown,1.80,2025-05-20 23:28:00
+Crystal Landry,Midtown,1.80,2025-07-14 13:51:00
+Janet Clark,Midtown,1.80,2025-04-09 4:26:00
+Jeffrey Ortiz,Midtown,1.80,2025-03-01 18:55:00
+Yvonne Davis,Midtown,1.80,2025-02-13 17:44:00
+Elizabeth Clark,Midtown,1.80,2025-01-12 9:01:00
+James Brown,Midtown,1.80,2025-02-09 23:48:00
+William Blevins,Midtown,1.80,2025-03-26 7:57:00
+James Chase,Midtown,1.80,2025-06-16 7:59:00
+Timothy Thomas,Midtown,1.80,2025-04-22 0:59:00
+Denise Ortega,Midtown,1.80,2025-04-17 12:31:00
+Jamie Phillips,Midtown,1.80,2025-01-09 13:54:00
+Ryan Zavala,Midtown,1.80,2025-01-11 5:34:00
+Corey Roberts,Midtown,1.80,2025-03-26 9:27:00
+Julie Hale,Midtown,1.80,2025-08-13 23:44:00
+Jeanette Hayes,Midtown,1.80,2025-07-10 19:21:00
+Jonathan Smith,Midtown,1.80,2025-02-21 23:08:00
+Ashley Swanson,Midtown,1.80,2025-01-26 1:02:00
+Ronald Floyd,Midtown,1.80,2025-07-22 17:45:00
+Mrs. Amber Hansen,Midtown,1.80,2025-03-28 17:29:00
+Christopher Ruiz,Midtown,1.80,2025-01-18 18:55:00
+Teresa Garcia,Midtown,1.80,2025-05-26 23:29:00
+Kimberly Tyler,Midtown,1.80,2025-01-24 10:51:00
+Malik Rodriguez,Midtown,1.80,2025-02-03 0:32:00
+John Garcia,Midtown,1.80,2025-03-02 6:13:00
+Daniel Jennings,Midtown,1.80,2025-07-13 12:15:00
+Crystal Collier,Midtown,1.80,2025-05-24 8:50:00
+Paul Cook,Midtown,1.80,2025-03-21 2:02:00
+Robert James,Midtown,1.80,2025-01-28 21:40:00
+Martin Estrada,Grant Park,3.10,2025-02-05 1:29:00
+Carmen Gonzalez,Grant Park,3.10,2025-02-26 19:03:00
+Deborah Morris,Grant Park,3.10,2025-01-31 10:05:00
+Kimberly Barnett,Grant Park,3.10,2025-05-09 5:01:00
+Diana Fry,Grant Park,3.10,2025-04-30 21:17:00
+Jonathan Jones,Grant Park,3.10,2025-04-24 14:37:00
+Shane Gallegos MD,Grant Park,3.10,2025-06-16 4:03:00
+Amanda Jones,Grant Park,3.10,2025-05-30 11:32:00
+Christopher Rodriguez,Grant Park,3.10,2025-08-13 11:41:00
+Amanda Keller,Grant Park,3.10,2025-01-07 5:36:00
+Autumn Robinson,Grant Park,3.10,2025-04-13 2:12:00
+Ashley Hull,Grant Park,3.10,2025-07-24 5:14:00
+Jose Kane,Grant Park,3.10,2025-03-02 16:09:00
+Luis Mccullough,Grant Park,3.10,2025-06-18 10:36:00
+Derek Delgado,Grant Park,3.10,2025-01-29 18:05:00
+Shannon Mueller,Grant Park,3.10,2025-03-22 4:57:00
+Stephen Campbell,Old Fourth Ward,0.50,2025-03-05 0:09:00
+Anthony Wilson,Old Fourth Ward,0.50,2025-05-30 5:29:00
+Katelyn Brown,Old Fourth Ward,0.50,2025-06-13 3:41:00
+Alexander Wallace,Old Fourth Ward,0.50,2025-07-18 18:47:00
+Sarah Ponce,Old Fourth Ward,0.50,2025-02-21 9:55:00
+David Gutierrez,Old Fourth Ward,0.50,2025-01-08 22:56:00
+Ashley Davis,Old Fourth Ward,0.50,2025-06-07 16:06:00
+Ricky Jacobs,Old Fourth Ward,0.50,2025-07-27 19:57:00
+Mrs. Kristi Myers,Old Fourth Ward,0.50,2025-02-04 8:47:00
+Anthony Wells,Old Fourth Ward,0.50,2025-05-26 18:30:00
+Richard Rodriguez,Old Fourth Ward,0.50,2025-04-10 12:57:00
+John Mckinney,Old Fourth Ward,0.50,2025-01-28 8:27:00
+Timothy Miller,Old Fourth Ward,0.50,2025-07-11 4:42:00
+Gerald Watson,Old Fourth Ward,0.50,2025-07-16 9:55:00
+Maurice Lyons,Old Fourth Ward,0.50,2025-01-12 7:18:00
+Tracy Bryant,Old Fourth Ward,0.50,2025-01-28 9:19:00
+Tabitha Bernard,Old Fourth Ward,0.50,2025-08-11 18:18:00
+Jean Morris,Old Fourth Ward,0.50,2025-01-28 13:23:00
+Adam Klein,Old Fourth Ward,0.50,2025-02-01 3:46:00
+Matthew Lara,Old Fourth Ward,0.50,2025-01-13 7:45:00
+Christopher Noble,Old Fourth Ward,0.50,2025-06-17 20:57:00
+Jeanette Ramirez,Old Fourth Ward,0.50,2025-03-20 14:17:00
+Scott Petty,Old Fourth Ward,0.50,2025-03-08 17:02:00
+James Thomas,Old Fourth Ward,0.50,2025-01-18 21:53:00
+Alicia Clark,Old Fourth Ward,0.50,2025-04-12 0:03:00
+Deborah Green,Old Fourth Ward,0.50,2025-02-21 2:59:00
+Melissa Curry,Old Fourth Ward,0.50,2025-03-01 22:30:00
+Danielle Carey,Old Fourth Ward,0.50,2025-07-14 12:38:00
+Jaime Cook,Old Fourth Ward,0.50,2025-03-14 6:35:00
+Caleb Little,Old Fourth Ward,0.50,2025-02-15 0:38:00
+Melinda Levine,Old Fourth Ward,0.50,2025-01-29 10:09:00
+Andrew Reilly,Old Fourth Ward,0.50,2025-03-22 14:22:00
+Jeffrey Hernandez,Old Fourth Ward,0.50,2025-01-08 12:57:00
+Jonathan Lynch,Old Fourth Ward,0.50,2025-07-27 3:31:00
+Ashley Dominguez,Old Fourth Ward,0.50,2025-03-10 15:57:00
+Michelle Harris,Old Fourth Ward,0.50,2025-06-15 23:04:00
+John Fisher,Old Fourth Ward,0.50,2025-02-18 8:39:00
+Patrick Gibson,Old Fourth Ward,0.50,2025-01-20 20:30:00
+Jeremy Johnson,Old Fourth Ward,0.50,2025-04-13 18:17:00
+Alexis Williams,Old Fourth Ward,0.50,2025-03-14 4:14:00
+Veronica Pitts,Old Fourth Ward,0.50,2025-05-22 14:10:00
+Wesley Walters,Old Fourth Ward,0.50,2025-03-05 10:53:00
+Mark Santiago,Old Fourth Ward,0.50,2025-07-20 2:22:00
+Jason Rocha,Old Fourth Ward,0.50,2025-04-27 11:43:00
+Jasmine Sharp,Old Fourth Ward,0.50,2025-01-20 21:57:00
+Allison Lynch,Old Fourth Ward,0.50,2025-07-03 4:25:00
+Stacy Wagner,Old Fourth Ward,0.50,2025-08-11 15:20:00
+Elaine Wong,Old Fourth Ward,0.50,2025-06-12 22:00:00
+Jason Hill,Old Fourth Ward,0.50,2025-03-29 16:25:00
+Robert Glover,Old Fourth Ward,0.50,2025-01-25 20:37:00
+Marisa Chang,Old Fourth Ward,0.50,2025-03-27 12:16:00
+Charles Johnson,Old Fourth Ward,0.50,2025-02-15 22:47:00
+Guy Gay,Old Fourth Ward,0.50,2025-07-25 22:43:00
+Karen Cain,Old Fourth Ward,0.50,2025-03-23 15:16:00
+Ashley Poole,Old Fourth Ward,0.50,2025-04-30 3:41:00
+Wanda Gould,Virginia Highland,2.20,2025-05-11 10:45:00
+Bailey Pearson,Virginia Highland,2.20,2025-04-14 6:03:00
+David Rodriguez,Virginia Highland,2.20,2025-04-10 14:07:00
+Ashley Wilson,Virginia Highland,2.20,2025-02-09 21:00:00
+Christopher Romero,Virginia Highland,2.20,2025-05-09 14:13:00
+Denise Thompson,Virginia Highland,2.20,2025-01-04 1:09:00
+Billy Wade,Virginia Highland,2.20,2025-03-05 6:04:00
+Jason Martin,Virginia Highland,2.20,2025-03-18 13:25:00
+Patricia Jenkins,Virginia Highland,2.20,2025-05-16 19:43:00
+Veronica Bray,Virginia Highland,2.20,2025-02-08 4:06:00
+Emily Jackson,Virginia Highland,2.20,2025-04-24 5:16:00
+Julie Tucker,Virginia Highland,2.20,2025-07-15 23:05:00
+Christopher Dunlap,Virginia Highland,2.20,2025-03-03 8:36:00
+Michele Ball,Virginia Highland,2.20,2025-04-09 17:49:00
+Courtney Patterson,Virginia Highland,2.20,2025-06-29 16:52:00
+Christina Garcia,Virginia Highland,2.20,2025-01-28 14:45:00
+Timothy Harris,Virginia Highland,2.20,2025-06-03 18:34:00
+Amber Gomez,Virginia Highland,2.20,2025-03-05 10:31:00
+Matthew Rogers,Virginia Highland,2.20,2025-06-03 2:37:00
+Dr. James Garza,Virginia Highland,2.20,2025-07-27 21:00:00
+Monica Hill,Virginia Highland,2.20,2025-06-07 9:10:00
+Sara Graham,Virginia Highland,2.20,2025-06-02 10:53:00
+Amy Browning,Sandy Springs,13.50,2025-06-05 20:32:00
+Daniel Fowler,Sandy Springs,13.50,2025-04-23 6:37:00
+Geoffrey Jenkins,Sandy Springs,13.50,2025-06-04 21:40:00
+Tamara Wu,Sandy Springs,13.50,2025-02-11 2:01:00
+Frank Pena,Sandy Springs,13.50,2025-07-31 12:30:00
+Julie Watson DVM,Sandy Springs,13.50,2025-03-12 13:32:00
+Jasmine Harvey,Sandy Springs,13.50,2025-01-21 11:10:00
+Casey Jones,Sandy Springs,13.50,2025-01-25 7:34:00
+Carlos Downs,Sandy Springs,13.50,2025-01-22 1:14:00
+Michael Smith,Sandy Springs,13.50,2025-06-11 14:28:00
+Curtis Brown,Sandy Springs,13.50,2025-02-19 13:31:00
+Amanda Waters,Sandy Springs,13.50,2025-07-08 16:06:00
+William Collins,Sandy Springs,13.50,2025-06-25 13:54:00
+Wesley Jimenez,Sandy Springs,13.50,2025-04-24 0:36:00
+Karen Sullivan,Sandy Springs,13.50,2025-06-06 22:35:00
+Daniel Flores,Sandy Springs,13.50,2025-04-29 9:53:00
+Kristy Nash,Sandy Springs,13.50,2025-02-27 17:15:00
+Lisa Walters,Sandy Springs,13.50,2025-03-23 18:38:00
+Kenneth Miranda,Sandy Springs,13.50,2025-08-10 0:07:00
+Mark Smith,Sandy Springs,13.50,2025-07-28 6:31:00
+Mike Blackwell,Sandy Springs,13.50,2025-04-29 19:17:00
+Larry Perry MD,Sandy Springs,13.50,2025-01-23 14:59:00
+Diane Myers,Sandy Springs,13.50,2025-01-16 5:47:00
+Deborah Salazar,Sandy Springs,13.50,2025-06-05 19:11:00
+Joseph Barnes,Sandy Springs,13.50,2025-06-15 5:15:00
+Brandon King,Sandy Springs,13.50,2025-07-14 14:41:00
+Vicki Taylor,Perimeter/Dunwoody,12.30,2025-08-03 20:50:00
+Christina Adams,Perimeter/Dunwoody,12.30,2025-02-27 13:51:00
+Brian Smith,Perimeter/Dunwoody,12.30,2025-03-03 22:26:00
+Corey Rodriguez,Perimeter/Dunwoody,12.30,2025-04-08 9:28:00
+Christopher Scott,Perimeter/Dunwoody,12.30,2025-03-12 7:38:00
+Susan Carter,Perimeter/Dunwoody,12.30,2025-08-06 17:35:00
+Richard Roberts,Perimeter/Dunwoody,12.30,2025-08-04 0:41:00
+Kimberly Carter,Perimeter/Dunwoody,12.30,2025-03-17 9:05:00
+Thomas Burch,Perimeter/Dunwoody,12.30,2025-01-12 8:32:00
+Sarah Baker,Perimeter/Dunwoody,12.30,2025-06-24 16:22:00
+Wesley Le,Perimeter/Dunwoody,12.30,2025-07-04 17:02:00
+Michael Robinson,Perimeter/Dunwoody,12.30,2025-03-29 13:20:00
+Jennifer Pearson,Perimeter/Dunwoody,12.30,2025-04-20 22:52:00
+Laura Valdez,Perimeter/Dunwoody,12.30,2025-07-28 0:33:00
+Christina Johnson,Perimeter/Dunwoody,12.30,2025-07-30 11:33:00
+Eric Nguyen,Perimeter/Dunwoody,12.30,2025-03-24 1:48:00
+William Cross,Perimeter/Dunwoody,12.30,2025-04-28 20:25:00
+Melissa Duncan,Westside/West Midtown,4.90,2025-07-06 8:10:00
+David Robinson,Westside/West Midtown,4.90,2025-06-13 15:22:00
+Jane Guzman,Westside/West Midtown,4.90,2025-06-17 21:22:00
+Lisa Gregory,Westside/West Midtown,4.90,2025-07-27 11:06:00
+Mark Randolph,Westside/West Midtown,4.90,2025-04-17 18:30:00
+Jade Gilbert,Westside/West Midtown,4.90,2025-01-02 10:36:00
+Brian Hernandez,Westside/West Midtown,4.90,2025-05-09 18:52:00
+Gregory Stephens,Westside/West Midtown,4.90,2025-06-24 0:55:00
+Marvin Bonilla,Westside/West Midtown,4.90,2025-07-24 16:57:00
+Linda Dean,Westside/West Midtown,4.90,2025-06-08 12:54:00
+Casey Gonzalez,Westside/West Midtown,4.90,2025-05-03 5:15:00
+Nicholas Carter,Airport Hartsfield,11.80,2025-03-22 7:05:00
+Kenneth Ferguson,Airport Hartsfield,11.80,2025-08-07 8:55:00
+Michael Gordon,Airport Hartsfield,11.80,2025-03-08 23:54:00
+Jose Macias,Airport Hartsfield,11.80,2025-05-14 8:41:00
+David Ellis,Airport Hartsfield,11.80,2025-05-27 19:58:00
+Heather Collins,Airport Hartsfield,11.80,2025-08-11 14:55:00
+Hannah Brown,Airport Hartsfield,11.80,2025-04-08 3:59:00
+Derek Cooper,Airport Hartsfield,11.80,2025-03-16 9:13:00
+Roberto Farrell,Airport Hartsfield,11.80,2025-07-16 13:38:00
+Valerie Jones,Airport Hartsfield,11.80,2025-02-10 7:53:00
+Dennis Turner,Airport Hartsfield,11.80,2025-08-10 19:33:00
+Elizabeth Jones,Airport Hartsfield,11.80,2025-05-04 9:08:00
+Jennifer Snyder,Airport Hartsfield,11.80,2025-05-01 12:21:00
+Christopher Frederick,East Atlanta Village,4.80,2025-04-05 14:19:00
+Christopher Ali,East Atlanta Village,4.80,2025-04-06 3:15:00
+Paul Wright MD,East Atlanta Village,4.80,2025-07-22 6:25:00
+Jonathan Turner,East Atlanta Village,4.80,2025-03-14 9:32:00
+Joseph Kelley,East Atlanta Village,4.80,2025-02-13 1:16:00
+Janice Sanchez,East Atlanta Village,4.80,2025-04-07 13:48:00
+James Moran,East Atlanta Village,4.80,2025-01-02 15:46:00
+Lauren Mendez,East Atlanta Village,4.80,2025-01-24 19:52:00
+Jean Miller,East Atlanta Village,4.80,2025-05-29 12:50:00
+Darrell Wolfe,East Atlanta Village,4.80,2025-05-03 15:11:00
+Carolyn Wright,East Atlanta Village,4.80,2025-03-29 13:31:00
+Evan Howard,East Atlanta Village,4.80,2025-03-11 12:11:00
+Norma Avila,East Atlanta Village,4.80,2025-07-06 14:32:00
+Anthony Robinson,East Atlanta Village,4.80,2025-05-02 7:51:00
+James Rose,East Atlanta Village,4.80,2025-04-28 3:34:00
+Courtney Dixon,East Atlanta Village,4.80,2025-07-10 3:21:00
+Megan Peterson,East Atlanta Village,4.80,2025-07-21 22:05:00
+Jessica Richmond,East Atlanta Village,4.80,2025-05-25 14:25:00
+Jennifer Hunter,East Atlanta Village,4.80,2025-06-07 11:18:00
+Michael Woodward,East Atlanta Village,4.80,2025-05-04 3:28:00
+Kevin Walker,East Atlanta Village,4.80,2025-04-30 5:04:00
+Heather Russell,East Atlanta Village,4.80,2025-03-12 14:07:00
+Jennifer Santos,Buckhead,5.40,2025-06-14 20:05:00
+Lucas Santiago,Buckhead,5.40,2025-05-22 19:51:00
+Gregory Hicks MD,Buckhead,5.40,2025-06-02 23:01:00
+Anthony Armstrong,Buckhead,5.40,2025-08-12 23:49:00
+Pamela Moore,Buckhead,5.40,2025-07-14 12:55:00
+Gary Phillips,Buckhead,5.40,2025-03-24 20:55:00
+Jennifer Williams,Buckhead,5.40,2025-06-17 11:43:00
+Troy Roberts,Buckhead,5.40,2025-04-06 5:47:00
+Thomas Pineda,Buckhead,5.40,2025-04-27 8:08:00
+Robert Campbell,Buckhead,5.40,2025-04-20 13:58:00
+Monique Camacho,Buckhead,5.40,2025-02-07 22:54:00
+Ethan Combs,Buckhead,5.40,2025-03-05 20:27:00
+Patrick Hammond,Buckhead,5.40,2025-04-24 9:40:00
+Thomas Aguirre,Buckhead,5.40,2025-06-15 6:59:00
+Larry Higgins,Buckhead,5.40,2025-05-30 16:30:00
+Donald Scott,Buckhead,5.40,2025-06-27 0:46:00
+Jennifer Moreno,Buckhead,5.40,2025-04-16 4:11:00
+Heather Peterson,Buckhead,5.40,2025-07-18 12:26:00
+Michael Roberts,Buckhead,5.40,2025-01-29 3:45:00
+Michael Skinner,Buckhead,5.40,2025-02-03 0:37:00
+Derek Young,Buckhead,5.40,2025-05-11 21:18:00
+Jeanette Flynn,Marietta,16.20,2025-08-10 2:16:00
+Suzanne Graham,Marietta,16.20,2025-03-27 8:24:00
+Brittany Watson,Marietta,16.20,2025-02-05 0:37:00
+Cody Gonzalez,Marietta,16.20,2025-04-20 18:49:00
+Shane Garcia,Marietta,16.20,2025-03-31 19:58:00
+Miguel Mendoza,Marietta,16.20,2025-05-05 4:18:00
+Timothy Reeves,Marietta,16.20,2025-02-11 1:52:00
+Amanda Mahoney,Marietta,16.20,2025-05-17 1:26:00
+John Sutton,Marietta,16.20,2025-08-04 7:20:00
+Eric Moss,Marietta,16.20,2025-04-14 2:26:00
+Debbie Castillo,Marietta,16.20,2025-02-24 1:19:00
+Kelly Curry,Marietta,16.20,2025-04-18 1:57:00
+Elizabeth Hunter,Marietta,16.20,2025-01-11 0:23:00
+Elizabeth Frazier,Marietta,16.20,2025-04-20 2:29:00
+Erica Browning,Marietta,16.20,2025-06-10 13:33:00
+James Morgan,Marietta,16.20,2025-03-06 3:34:00
+Margaret Mcdowell,Marietta,16.20,2025-07-19 3:04:00
+Steven Melendez,Marietta,16.20,2025-08-13 15:50:00
+Diane Garza,Marietta,16.20,2025-07-12 9:30:00
+Jason Russell,Marietta,16.20,2025-06-25 18:16:00
+Catherine Martinez,Marietta,16.20,2025-07-03 20:17:00
+Thomas Huynh,Marietta,16.20,2025-06-15 17:21:00
+Susan Browning,Sandy Springs,13.50,2025-01-10 23:10:00
+James Butler,Sandy Springs,13.50,2025-02-12 18:13:00
+Joseph Hamilton,Sandy Springs,13.50,2025-07-09 8:52:00
+Alyssa Anthony,Sandy Springs,13.50,2025-01-15 19:21:00
+Jerry Pineda,Sandy Springs,13.50,2025-07-15 15:00:00
+Brandy Smith,Sandy Springs,13.50,2025-08-03 23:47:00
+Ivan Haynes,Sandy Springs,13.50,2025-07-23 8:10:00
+Amber Mendez,Sandy Springs,13.50,2025-08-09 5:11:00
